@@ -21,6 +21,6 @@
 4. Importar la base de datos "somecloud.sql" a phpMyAdmin
 
 5. Ya instaladas las dependencias usar dentro de la carpeta receptor
-```bash
+    ```bash
     node receptor.js
     ```
