@@ -4,7 +4,7 @@
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/MarTryxz/envio-y-confirmacion-cita-medica
+    git clone https://github.com/MarTryxz/envio-y-confirmacion-cita-medica.git
     ```
 
 2. Navega a la carpeta `receptor`:
@@ -24,3 +24,12 @@
     ```bash
     node receptor.js
     ```
+
+### Las tecnologías usadas
+- Node.js
+- Express
+- MySQL
+- PHP
+- HTML
+- CSS
+- JavaScript
